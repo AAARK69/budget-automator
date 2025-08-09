@@ -1,0 +1,11 @@
+# Map keywords (lowercase) to categories.
+# First match wins; order matters.
+groceries: [kroger, whole foods, trader joe, walmart, costco]
+dining: [mcdonald, chipotle, starbucks, taco bell, pizza, panera]
+transport: [uber, lyft, shell, exxon, chevron, mobil, gas]
+shopping: [amazon, target, best buy, nike, adidas]
+subscriptions: [netflix, spotify, apple, google storage, prime]
+utilities: [verizon, xfinity, comcast, at&t, t-mobile, spectrum]
+health: [cvs, walgreens, rite aid, walgreens]
+education: [udemy, coursera, khan academy]
+income: [payroll, paycheck, direct deposit, employer]
